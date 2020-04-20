@@ -33,4 +33,8 @@ time_format: H:mm:ss
 per_page: 5
 pagination_dir: page
 
+sidebar: true  #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
+sidebar-avatar: /img/avatar.png
+
 theme: jekyll-theme-architect
