@@ -1,5 +1,7 @@
+title: Alisa's blog
+description: one coder
+author: alisa
+email: yuyue19921120@163.com
+language: zh-CN
+
 theme: jekyll-theme-architect
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
