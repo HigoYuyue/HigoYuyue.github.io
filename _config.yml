@@ -1,37 +1,11 @@
 title: Alisa's blog
+SEOTitle: Alisa's blog
+header-img: img/avatar.png
 description: one coder
+keyword: "yuyue, frontend, "
 author: alisa
 email: yuyue19921120@163.com
 language: zh-CN
-
-permalink: :year/:month/:day/:title/
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-
-# Writing 文章布局、写作格式的定义，不修改
-new_post_name: :title.md # File name of new posts
-default_layout: post
-auto_spacing: false # Add spaces between asian characters and western characters
-titlecase: false # Transform title into titlecase
-max_open_file: 100
-filename_case: 0
-highlight:
-  enable: true
-  backtick_code_block: true
-  line_number: true
-  tab_replace:
-
-# Category & Tag
-default_category: uncategorized
-category_map:
-tag_map:
-
-date_format: MMM D YYYY
-time_format: H:mm:ss
-
-per_page: 5
-pagination_dir: page
 
 sidebar: true  #添加侧边栏
 sidebar-about-description: "简单的描述一下你自己"
